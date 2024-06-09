@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+21 years old, currently studying Software Engineering at the Faculty of Technical Sciences in Novi Sad, Serbia.
+
+### Currently working on:
+
+- [x] [**NoSQL database**](https://github.com/idzaaa9/NoSQLDB)
+
+#### How to reach me:
+
+- [jordanovski@proton.me](mailto:jordanovski@proton.me)
+
