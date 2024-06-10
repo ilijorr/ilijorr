@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Currently working on:
 
-- [x] [**NoSQL database**](https://github.com/idzaaa9/NoSQLDB)
+- [ ] [**NoSQL database**](https://github.com/idzaaa9/NoSQLDB)
 
 #### How to reach me:
 
