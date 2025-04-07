@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ### Currently working on:
 
-- [ ] [**NoSQL database**](https://github.com/idzaaa9/NoSQLDB)
+- [x] [**NoSQL database**](https://github.com/idzaaa9/NoSQLDB)
+- [ ] [**Courser**](https://github.com/idzaaa9/courser)
 
 #### How to reach me:
 
