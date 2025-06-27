@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 21 years old, currently studying Software Engineering at the Faculty of Technical Sciences in Novi Sad, Serbia.
 
+### Currently working on:
+
+- [x] [**NoSQL database**](https://github.com/idzaaa9/NoSQLDB)
+- [ ] [**Courser**](https://github.com/idzaaa9/courser)
+
 ### Technologies and tools I use:
 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff) (FastAPI, LangChain)
@@ -33,11 +38,6 @@ Here are some ideas to get you started:
 
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000) **Linux Terminal**
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker**
-
-### Currently working on:
-
-- [x] [**NoSQL database**](https://github.com/idzaaa9/NoSQLDB)
-- [ ] [**Courser**](https://github.com/idzaaa9/courser)
 
 #### How to reach me:
 
