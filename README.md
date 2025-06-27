@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff) 
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-- ![Pinecone](https://img.shields.io/badge/-Pinecone-5C9DED?style=flat-square&logo=pinecone&logoColor=white) **Pinecone**
+- ![Pinecone](https://img.shields.io/badge/-Pinecone-5C9DED?style=flat-square&logo=pinecone&logoColor=white)
 
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000) **Linux Terminal**
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker**
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000) 
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 
 #### How to reach me:
 
