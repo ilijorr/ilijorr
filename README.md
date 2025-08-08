@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-21 years old, currently studying Software Engineering at the Faculty of Technical Sciences in Novi Sad, Serbia.
+22 years old, currently studying Software Engineering at the Faculty of Technical Sciences in Novi Sad, Serbia.
 
 ### Currently working on:
 
