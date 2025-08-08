@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - [x] [**NoSQL database**](https://github.com/idzaaa9/NoSQLDB)
 - [ ] [**Courser**](https://github.com/idzaaa9/courser)
 
+<!--
 ### Technologies and tools I use:
 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff) (FastAPI, LangChain)
@@ -38,8 +39,8 @@ Here are some ideas to get you started:
 
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000) 
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+-->
 
 #### How to reach me:
 
 - [jordanovski@proton.me](mailto:jordanovski@proton.me)
-
